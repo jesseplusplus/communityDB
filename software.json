@@ -750,5 +750,21 @@
         "donate_url": null,
         "matrix_url": null,
         "logo_url": null
+    },
+    {
+        "name": "Manyfold",
+        "slug": "manyfold",
+        "description": "Organise and share your 3d print files.",
+        "license": "MIT",
+        "source_code": "https://github.com/manyfold3d/manyfold",
+        "website": "https://manyfold.app",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://github.com/manyfold3d/manyfold/issues/new",
+        "forum_url": "https://github.com/manyfold3d/manyfold/discussions",
+        "donate_url": "https://opencollective.com/manyfold",
+        "matrix_url": "https://matrix.to/#/#manyfold:one.ems.host",
+        "logo_url": "https://manyfold.app/images/roundel.svg"
     }
 ]
