@@ -210,15 +210,15 @@
         "license": "AGPL",
         "source_code": "https://github.com/friendica/friendica",
         "website": "https://friendi.ca",
-        "apps_url": null,
-        "join_url": null,
+        "apps_url": "https://friendi.ca/resources/mobile-clients/",
+        "join_url": "https://friendi.ca/resources/find-a-server/",
         "api_docs_url": null,
-        "support_url": null,
-        "forum_url": null,
+        "support_url": "https://forum.friendi.ca/profile/helpers",
+        "forum_url": "https://forum.friendi.ca/directory",
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://raw.githubusercontent.com/friendica/friendica/refs/heads/2024.09-rc/images/friendica-1600.png",
+        "logo_source_version": 2
     },
     {
         "name": "Activityrelay",
@@ -935,6 +935,23 @@
         "logo_source_version": null
     },
     {
+        "name": "flohmarkt",
+        "slug": "flohmarkt",
+        "description": "Sell and buy 2nd hand items from other users.",
+        "license": "AGPL",
+        "source_code": "https://codeberg.org/flohmarkt/flohmarkt",
+        "website": "https://codeberg.org/flohmarkt/flohmarkt",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://codeberg.org/flohmarkt/flohmarkt/issues",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": "https://codeberg.org/repo-avatars/576d79b207b4d46349e252a8e2abf6d1a7078ba5999726e7d4e7e0b483c5068e",
+        "logo_source_version": null
+    },
+    {
         "name": "FediAlgo",
         "slug": "fedialgo",
         "description": "A user customizable algorithm for your Mastodon timeline.",
@@ -948,7 +965,6 @@
         "forum_url": "https://github.com/michelcrypt4d4mus/fedialgo/discussions",
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": null
     }
 ]
