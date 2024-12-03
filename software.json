@@ -918,23 +918,6 @@
         "logo_source_version": null
     },
     {
-        "name": "FediAlgo",
-        "slug": "fedialgo",
-        "description": "A user customizable algorithm for your Mastodon timeline.",
-        "license": "ISC",
-        "source_code": "https://github.com/michelcrypt4d4mus/fedialgo",
-        "website": "https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed/blob/master/README.md",
-        "apps_url": "https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed",
-        "join_url": null,
-        "api_docs_url": "https://github.com/michelcrypt4d4mus/fedialgo/blob/master/README.md",
-        "support_url": null,
-        "forum_url": "https://github.com/michelcrypt4d4mus/fedialgo/discussions",
-        "donate_url": null,
-        "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
         "name": "Manyfold",
         "slug": "manyfold",
         "description": "Organise and share your 3d print files.",
@@ -948,6 +931,23 @@
         "forum_url": "https://github.com/manyfold3d/manyfold/discussions",
         "donate_url": "https://opencollective.com/manyfold",
         "matrix_url": "https://matrix.to/#/#manyfold:one.ems.host",
+        "logo_source_url": null,
+        "logo_source_version": null
+    },
+    {
+        "name": "FediAlgo",
+        "slug": "fedialgo",
+        "description": "A user customizable algorithm for your Mastodon timeline.",
+        "license": "ISC",
+        "source_code": "https://github.com/michelcrypt4d4mus/fedialgo",
+        "website": "https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed/blob/master/README.md",
+        "apps_url": "https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed",
+        "join_url": null,
+        "api_docs_url": "https://github.com/michelcrypt4d4mus/fedialgo/blob/master/README.md",
+        "support_url": null,
+        "forum_url": "https://github.com/michelcrypt4d4mus/fedialgo/discussions",
+        "donate_url": null,
+        "matrix_url": null,
         "logo_source_url": null,
         "logo_source_version": null
     }
