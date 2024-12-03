@@ -13,7 +13,8 @@
         "forum_url": "https://github.com/pixelfed/pixelfed/discussions",
         "donate_url": "https://pixelfed.org/support-our-project",
         "matrix_url": "https://matrix.to/#/#pixeldev:matrix.org",
-        "logo_url": "https://fedidb.org/storage/software-logos/pixelfed.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/pixelfed.png",
+        "logo_source_version": 2
     },
     {
         "name": "Mastodon",
@@ -29,7 +30,8 @@
         "forum_url": "https://github.com/mastodon/mastodon/discussions",
         "donate_url": "https://joinmastodon.org/sponsors",
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/mastodon.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/mastodon.png",
+        "logo_source_version": 2
     },
     {
         "name": "PeerTube",
@@ -45,7 +47,8 @@
         "forum_url": "https://framacolibri.org/c/peertube/38",
         "donate_url": "https://support.joinpeertube.org/en",
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/peertube.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/peertube.png",
+        "logo_source_version": 2
     },
     {
         "name": "Pleroma",
@@ -61,7 +64,8 @@
         "forum_url": "https://git.pleroma.social/pleroma/pleroma-support",
         "donate_url": "https://liberapay.com/Pleroma-euro",
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/pleroma.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/pleroma.png",
+        "logo_source_version": 2
     },
     {
         "name": "Hubzilla",
@@ -77,7 +81,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "GNU social",
@@ -93,7 +98,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Plume",
@@ -109,7 +115,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Socialhome",
@@ -125,7 +132,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Writefreely",
@@ -141,7 +149,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Bookwyrm",
@@ -157,7 +166,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "WordPress",
@@ -173,7 +183,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Misskey",
@@ -189,7 +200,8 @@
         "forum_url": "https://forum.misskey.io/t/misskey-support",
         "donate_url": "https://www.patreon.com/syuilo",
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/misskey.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/misskey.png",
+        "logo_source_version": 2
     },
     {
         "name": "Friendica",
@@ -205,7 +217,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Activityrelay",
@@ -221,7 +234,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Lotide",
@@ -237,7 +251,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Microblogpub",
@@ -253,7 +268,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Ktistec",
@@ -269,7 +285,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Funkwhale",
@@ -285,7 +302,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Mobilizon",
@@ -301,7 +319,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Gancio",
@@ -317,7 +336,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Zap",
@@ -333,7 +353,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Smithereen",
@@ -349,7 +370,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Lemmy",
@@ -365,7 +387,8 @@
         "forum_url": "https://lemmy.ml",
         "donate_url": "https://join-lemmy.org/donate",
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/lemmy.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/lemmy.png",
+        "logo_source_version": 2
     },
     {
         "name": "Activity-Relay",
@@ -381,7 +404,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Bonfire",
@@ -397,7 +421,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Brutalinks",
@@ -413,7 +438,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Ecko",
@@ -429,7 +455,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Gotosocial",
@@ -445,7 +472,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Hometown",
@@ -461,7 +489,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Mitra",
@@ -477,7 +506,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Owncast",
@@ -493,7 +523,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Akkoma",
@@ -509,7 +540,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Bridgy-fed",
@@ -525,7 +557,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Cherrypick",
@@ -541,7 +574,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Fedibird",
@@ -557,7 +591,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Foundkey",
@@ -573,7 +608,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Glitchcafe",
@@ -589,7 +625,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Kbin",
@@ -605,7 +642,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Meisskey",
@@ -621,7 +659,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Microdotblog",
@@ -637,7 +676,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Snac",
@@ -653,7 +693,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Takahe",
@@ -669,7 +710,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Firefish",
@@ -685,7 +727,8 @@
         "forum_url": "https://git.joinfirefish.org/firefish/firefish/-/issues",
         "donate_url": "https://opencollective.com/firefish",
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/firefish.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/firefish.png",
+        "logo_source_version": 2
     },
     {
         "name": "Mbin",
@@ -701,7 +744,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/mbin.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/mbin.png",
+        "logo_source_version": 2
     },
     {
         "name": "Iceshrimp",
@@ -717,7 +761,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Sharkey",
@@ -733,7 +778,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Postmarks",
@@ -749,23 +795,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
-    },
-    {
-        "name": "Manyfold",
-        "slug": "manyfold",
-        "description": "Organise and share your 3d print files.",
-        "license": "MIT",
-        "source_code": "https://github.com/manyfold3d/manyfold",
-        "website": "https://manyfold.app",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
-        "support_url": "https://github.com/manyfold3d/manyfold/issues/new",
-        "forum_url": "https://github.com/manyfold3d/manyfold/discussions",
-        "donate_url": "https://opencollective.com/manyfold",
-        "matrix_url": "https://matrix.to/#/#manyfold:one.ems.host",
-        "logo_url": "https://manyfold.app/images/roundel.svg"
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Piefed",
@@ -781,7 +812,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Ghost",
@@ -797,7 +829,8 @@
         "forum_url": "https://forum.ghost.org",
         "donate_url": "https://github.com/sponsors/TryGhost",
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/ghost.png"
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Hollo",
@@ -813,7 +846,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Kmyblue",
@@ -829,7 +863,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Loops",
@@ -845,7 +880,8 @@
         "forum_url": null,
         "donate_url": "https://pixelfed.org/support-our-project",
         "matrix_url": null,
-        "logo_url": "https://fedidb.org/storage/software-logos/loops.png"
+        "logo_source_url": "https://fedidb.org/storage/software-logos/loops.png",
+        "logo_source_version": 2
     },
     {
         "name": "wafrn",
@@ -861,7 +897,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Castopod",
@@ -877,6 +914,24 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
+    },
+    {
+        "name": "Manyfold",
+        "slug": "manyfold",
+        "description": "Organise and share your 3d print files.",
+        "license": "MIT",
+        "source_code": "https://github.com/manyfold3d/manyfold",
+        "website": "https://manyfold.app",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://github.com/manyfold3d/manyfold/issues/new",
+        "forum_url": "https://github.com/manyfold3d/manyfold/discussions",
+        "donate_url": "https://opencollective.com/manyfold",
+        "matrix_url": "https://matrix.to/#/#manyfold:one.ems.host",
+        "logo_source_url": null,
+        "logo_source_version": null
     }
 ]
