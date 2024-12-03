@@ -933,5 +933,22 @@
         "matrix_url": "https://matrix.to/#/#manyfold:one.ems.host",
         "logo_source_url": null,
         "logo_source_version": null
+    },
+    {
+        "name": "flohmarkt",
+        "slug": "flohmarkt",
+        "description": "Sell and buy 2nd hand items from other users.",
+        "license": "AGPL",
+        "source_code": "https://codeberg.org/flohmarkt/flohmarkt",
+        "website": "https://codeberg.org/flohmarkt/flohmarkt",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://codeberg.org/flohmarkt/flohmarkt/issues",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
+        "logo_source_version": null
     }
 ]
