@@ -789,15 +789,15 @@
         "description": "Ghost is a powerful app for professional publishers to create, share, and grow a business around their content.",
         "license": "MIT",
         "source_code": "https://github.com/TryGhost/Ghost",
-        "website": "https://ghost.org/",
+        "website": "https://ghost.org",
         "apps_url": null,
         "join_url": null,
-        "api_docs_url": null,
-        "support_url": null,
-        "forum_url": null,
-        "donate_url": null,
+        "api_docs_url": "https://ghost.org/docs/",
+        "support_url": "https://ghost.org/help/",
+        "forum_url": "https://forum.ghost.org",
+        "donate_url": "https://github.com/sponsors/TryGhost",
         "matrix_url": null,
-        "logo_url": null
+        "logo_url": "https://fedidb.org/storage/software-logos/ghost.png"
     },
     {
         "name": "Hollo",
