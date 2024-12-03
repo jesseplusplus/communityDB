@@ -918,6 +918,23 @@
         "logo_source_version": null
     },
     {
+        "name": "FediAlgo",
+        "slug": "fedialgo",
+        "description": "A user customizable algorithm for your Mastodon timeline.",
+        "license": "ISC",
+        "source_code": "https://github.com/michelcrypt4d4mus/fedialgo",
+        "website": null,
+        "apps_url": "https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed",
+        "join_url": null,
+        "api_docs_url": "https://github.com/michelcrypt4d4mus/fedialgo/blob/master/README.md",
+        "support_url": null,
+        "forum_url": "https://github.com/michelcrypt4d4mus/fedialgo/discussions",
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
+        "logo_source_version": null
+    },
+    {
         "name": "Manyfold",
         "slug": "manyfold",
         "description": "Organise and share your 3d print files.",
