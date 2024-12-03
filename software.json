@@ -362,16 +362,16 @@
         "description": "Federated, ActivityPub-compatible social network server with friends, walls, and groups.",
         "license": "Unlicense",
         "source_code": "https://github.com/grishka/Smithereen",
-        "website": "https://github.com/grishka/Smithereen",
+        "website": "https://smithereen.software",
         "apps_url": null,
         "join_url": null,
         "api_docs_url": null,
         "support_url": null,
-        "forum_url": null,
+        "forum_url": "https://t.me/SmithereenProject",
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://raw.githubusercontent.com/grishka/Smithereen/refs/heads/master/img/logo.svg",
+        "logo_source_version": 1
     },
     {
         "name": "Lemmy",
