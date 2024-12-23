@@ -737,7 +737,7 @@
         "license": "AGPL",
         "source_code": "https://github.com/MbinOrg/mbin",
         "website": "https://joinmbin.org/",
-        "apps_url": "https://github.com/jwr1/interstellar",
+        "apps_url": "https://joinmbin.org/apps/",
         "join_url": "https://joinmbin.org/",
         "api_docs_url": "https://docs.joinmbin.org/api/",
         "support_url": "https://matrix.to/#/#mbin:melroy.org",
