@@ -950,5 +950,22 @@
         "matrix_url": null,
         "logo_source_url": "https://codeberg.org/repo-avatars/576d79b207b4d46349e252a8e2abf6d1a7078ba5999726e7d4e7e0b483c5068e",
         "logo_source_version": null
+    },
+    {
+        "name": "Emissary",
+        "slug": "emissary",
+        "description": "The Social Web Toolkit: AProgrammable server for custom Fediverse apps.",
+        "license": "AGPL",
+        "source_code": "https://github.com/EmissarySocial/emissary",
+        "website": "https://emissary.dev",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": "https://emissary.dev/creators",
+        "support_url": null,
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": "https://matrix.to/#/#emissary.matrix.org:matrix.org",
+        "logo_source_url": "https://emissary.dev/.templates/emissary_dev_homepage/resources/Emissary-Logo-Black.png",
+        "logo_source_version": 1
     }
 ]
