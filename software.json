@@ -966,5 +966,22 @@
         "donate_url": null,
         "matrix_url": null,
         "logo_source_url": null
+    },
+    {
+        "name": "tootik",
+        "slug": "tootik",
+        "description": "A federated nanoblogging service with a Gemini frontend.",
+        "license": "Apache-2.0",
+        "source_code": "https://github.com/dimkr/tootik",
+        "website": "https://github.com/dimkr/tootik",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://github.com/dimkr/tootik/issues",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
+        "logo_source_version": null
     }
 ]
