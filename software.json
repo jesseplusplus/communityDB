@@ -965,7 +965,8 @@
         "forum_url": "https://github.com/michelcrypt4d4mus/fedialgo/discussions",
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "tootik",
@@ -982,6 +983,23 @@
         "donate_url": null,
         "matrix_url": null,
         "logo_source_url": null,
+        "logo_source_version": null
+    },
+    {
+        "name": "Vidzy",
+        "slug": "vidzy",
+        "description": "A free, open source, federated alternative to TikTok",
+        "license": "AGPL",
+        "source_code": "https://github.com/vidzy-social/vidzy",
+        "website": "https://vidzy.codeberg.page/",
+        "apps_url": null,
+        "join_url": "https://vidzy.codeberg.page/#servers",
+        "api_docs_url": null,
+        "support_url": "https://github.com/vidzy-social/vidzy/issues",
+        "forum_url": "https://github.com/vidzy-social/vidzy/discussions",
+        "donate_url": null,
+        "matrix_url": "https://matrix.to/#/#vidzysocial:fedora.im",
+        "logo_source_url": "https://raw.githubusercontent.com/vidzy-social/vidzy/main/static/logo.svg",
         "logo_source_version": null
     }
 ]
