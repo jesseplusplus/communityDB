@@ -1035,5 +1035,22 @@
         "matrix_url": "https://matrix.to/#/#neodb:matrix.org",
         "logo_source_url": "https://neodb.net/assets/logo.svg",
         "logo_source_version": 1
+    },
+    {
+        "name": "appy",
+        "slug": "appy",
+        "description": "a headless ActivityPub server writenn in Python over fastAPI",
+        "license": "GPL",
+        "source_code": "https://codeberg.org/spla/appy",
+        "website": "https://appy.cat",
+        "apps_url": "https://codeberg.org/spla/appy/apps",
+        "join_url": "",
+        "api_docs_url": "",
+        "support_url": "",
+        "forum_url": "",
+        "donate_url": "https://appy.cat/donate",
+        "matrix_url": "",
+        "logo_source_url": "https://codeberg.org/spla/appy/logo/appy.png",
+        "logo_source_version": 1
     }
 ]
