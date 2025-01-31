@@ -1018,5 +1018,22 @@
         "matrix_url": "https://matrix.to/#/#emissary.matrix.org:matrix.org",
         "logo_source_url": "https://emissary.dev/.templates/emissary_dev_homepage/resources/Emissary-Logo-Black.png",
         "logo_source_version": 1
+    },
+    {
+        "name": "NeoDB",
+        "slug": "neodb",
+        "description": "Review and share books, movies, music, games, and more",
+        "license": "AGPL",
+        "source_code": "https://github.com/neodb-social/neodb",
+        "website": "https://neodb.net",
+        "apps_url": "https://neodb.net/apps/",
+        "join_url": "https://neodb.net/servers/",
+        "api_docs_url": "https://neodb.net/api/",
+        "support_url": "https://mastodon.online/@neodb",
+        "forum_url": "https://discord.gg/uprvcH8gqD",
+        "donate_url": "https://ko-fi.com/neodb",
+        "matrix_url": "https://matrix.to/#/#neodb:matrix.org",
+        "logo_source_url": "https://neodb.net/assets/logo.svg",
+        "logo_source_version": 1
     }
 ]
