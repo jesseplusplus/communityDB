@@ -1052,5 +1052,18 @@
         "matrix_url": "",
         "logo_source_url": "https://codeberg.org/spla/appy/logo/appy.png",
         "logo_source_version": 1
+    },
+    {
+        "name": "NodebB",
+        "slug": "nodebb",
+        "description": "A better community platform for the modern web",
+        "license": "GPL-3.0",
+        "source_code": "https://github.com/NodeBB/NodeBB",
+        "website": "https://nodebb.org",
+        "api_docs_url": "https://docs.nodebb.org/api/write",
+        "support_url": "https://community.nodebb.org/category/16/technical-support",
+        "forum_url": "https://community.nodebb.org",
+        "logo_source_url": "https://community.nodebb.org/assets/uploads/system/touchicon-orig.png",
+        "logo_source_version": 1
     }
 ]
