@@ -1054,7 +1054,7 @@
         "logo_source_version": 1
     },
     {
-        "name": "NodebB",
+        "name": "NodeBB",
         "slug": "nodebb",
         "description": "A better community platform for the modern web",
         "license": "GPL-3.0",
