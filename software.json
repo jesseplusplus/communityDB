@@ -1103,5 +1103,22 @@
         "matrix_url": null,
         "logo_source_url": null,
         "logo_source_version": null
+    },
+    {
+      "name": "Drupal",
+      "slug": "drupal",
+      "description": "Drupal is an open source content management platform powering millions of websites and applications",
+      "license": "GPL-2.0-or-later",
+      "source_code": "https://git.drupalcode.org/project/activitypub",
+      "website": "https://www.drupal.org/project/activitypub",
+      "apps_url": null,
+      "join_url": null,
+      "api_docs_url": "https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/activitypub",
+      "support_url": "https://www.drupal.org/project/activitypub",
+      "forum_url": "https://www.drupal.org/project/issues/activitypub?categories=All",
+      "donate_url": null,
+      "matrix_url": "https://matrix.to/#/#drupalactivitypub:matrix.org",
+      "logo_source_url": null,
+      "logo_source_version": null
     }
 ]
