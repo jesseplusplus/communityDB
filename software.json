@@ -1120,5 +1120,22 @@
       "matrix_url": "https://matrix.to/#/#drupalactivitypub:matrix.org",
       "logo_source_url": null,
       "logo_source_version": null
+    },
+    {
+      "name": "Vernissage",
+      "slug": "vernissage",
+      "description": "Vernissage is a free platform designed for photographers. It's ad-free and focused on community and creativity, not algorithms.",
+      "license": "Apache 2.0",
+      "source_code": "https://github.com/VernissageApp/VernissageServer",
+      "website": "https://vernissage.photos/home",
+      "apps_url": null,
+      "join_url": null,
+      "api_docs_url": "https://api.vernissage.photos/",
+      "support_url": "https://github.com/VernissageApp/VernissageWeb/issues",
+      "forum_url": null,
+      "donate_url": "https://www.patreon.com/Vernissage",
+      "matrix_url": null,
+      "logo_source_url": "https://avatars.githubusercontent.com/u/124820233?s=200&v=4",
+      "logo_source_version": null
     }
 ]
