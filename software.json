@@ -1120,5 +1120,22 @@
       "matrix_url": "https://matrix.to/#/#drupalactivitypub:matrix.org",
       "logo_source_url": null,
       "logo_source_version": null
+    },
+    {
+        "name": "Hackers' Pub",
+        "slug": "hackerspub",
+        "description": "ActivityPub-enabled social network for hackers.",
+        "license": "AGPL",
+        "source_code": "https://github.com/hackers-pub/hackerspub",
+        "website": "https://hackers.pub/",
+        "apps_url": null,
+        "join_url": "https://hackers.pub/sign",
+        "api_docs_url": null,
+        "support_url": "https://github.com/hackers-pub/hackerspub/issues",
+        "forum_url": "https://github.com/hackers-pub/hackerspub/discussions",
+        "donate_url": "https://github.com/sponsors/dahlia",
+        "matrix_url": null,
+        "logo_source_url": "https://raw.githubusercontent.com/hackers-pub/hackerspub/main/web/static/favicon.svg",
+        "logo_source_version": null
     }
 ]
