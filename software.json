@@ -1120,5 +1120,22 @@
       "matrix_url": "https://matrix.to/#/#drupalactivitypub:matrix.org",
       "logo_source_url": null,
       "logo_source_version": null
+    },
+    {
+        "name": "Betula",
+        "slug": "betula",
+        "description": "Single-user federated bookmark manager with hypertext descriptions, tagging, local and federated search, archival and whatnot.",
+        "license": "AGPL",
+        "source_code": "https://codeberg.org/bouncepaw/betula",
+        "website": "https://betula.mycorrhiza.wiki",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://fosstodon.org/@betula",
+        "forum_url": "https://fosstodon.org/@betula",
+        "donate_url": "https://boosty.to/bouncepaw",
+        "matrix_url": null,
+        "logo_source_url": "https://links.bouncepaw.com/static/pix/favicon.png",
+        "logo_source_version": 1
     }
 ]
