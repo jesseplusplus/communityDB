@@ -565,5 +565,14 @@
         "os": ["web"],
         "url": "https://tweaking.thebad.space/about",
         "createdAt": "April 2025"
+    },
+    {
+        "name": "Wafrn",
+        "description": "The official mobile app for Wafrn, with some different design decisions than the web version. Wafrn is a social network inspired by Tumblr that connects to the Fediverse and Bluesky",
+        "compatibility": ["Wafrn"],
+        "categories": ["official", "client"],
+        "os": ["android", "ios"],
+        "url": "https://wafrn.net",
+        "createdAt": "Aug 2024",
     }
 ]
