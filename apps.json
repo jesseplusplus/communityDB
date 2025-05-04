@@ -506,7 +506,7 @@
     {
         "name": "Elk",
         "description": "A nimble Mastodon web client providing a clean, modern interface for browsing, posting, and interacting with Mastodon timelines directly in your browser.",
-        "compatibility": ["mastodon"],
+        "compatibility": ["Mastodon"],
         "categories": ["client"],
         "os": ["web"],
         "url": "https://elk.zone",
@@ -515,7 +515,7 @@
     {
         "name": "Fedica",
         "description": "An all-in-one web tool for publishing, scheduling, and analyzing Mastodon content—automate posts and measure engagement through a unified dashboard.",
-        "compatibility": ["mastodon"],
+        "compatibility": ["Mastodon"],
         "categories": ["analytics", "utility", "tools"],
         "os": ["web"],
         "url": "https://fedica.com",
@@ -524,7 +524,7 @@
     {
         "name": "Phanpy",
         "description": "A minimalistic, opinionated Mastodon web client focused on simplicity and performance; distributed as a static web app you can self‑host or use online.",
-        "compatibility": ["mastodon"],
+        "compatibility": ["Mastodon"],
         "categories": ["client"],
         "os": ["web"],
         "url": "https://phanpy.social",
