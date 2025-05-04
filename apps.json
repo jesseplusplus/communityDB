@@ -369,6 +369,15 @@
         "createdAt": null
     },
     {
+        "name": "Photon",
+        "description": "An opinionated web client for Lemmy to help users discover the fediverse.",
+        "compatibility": ["Lemmy"],
+        "categories": ["client"],
+        "os": ["web"],
+        "url": "https://phtn.app/",
+        "createdAt": null
+    },
+    {
         "name": "Milktea",
         "description": "An Android Misskey client that lets you quickly access multiple timelines via tabs, including nickname support for users.",
         "compatibility": ["Misskey"],
