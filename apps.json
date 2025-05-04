@@ -567,12 +567,21 @@
         "createdAt": "April 2025"
     },
     {
+        "name": "Statuzer",
+        "description": "Multi-accounts, multi-columns Mastodon client.",
+        "compatibility": ["Mastodon"],
+        "categories": ["client"],
+        "os": ["web"],
+        "url": "https://statuzer.com",
+        "createdAt": null
+    },
+    {
         "name": "Wafrn",
         "description": "The official mobile app for Wafrn, with some different design decisions than the web version. Wafrn is a social network inspired by Tumblr that connects to the Fediverse and Bluesky",
         "compatibility": ["Wafrn"],
         "categories": ["official", "client"],
         "os": ["android", "ios"],
         "url": "https://wafrn.net",
-        "createdAt": "Aug 2024",
+        "createdAt": "Aug 2024"
     }
 ]
