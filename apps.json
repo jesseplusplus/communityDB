@@ -565,5 +565,14 @@
         "os": ["web"],
         "url": "https://tweaking.thebad.space/about",
         "createdAt": "April 2025"
+    },
+    {
+        "name": "Statuzer",
+        "description": "Multi-accounts, multi-columns Mastodon client.",
+        "compatibility": ["Mastodon"],
+        "categories": ["client"],
+        "os": ["web"],
+        "url": "https://statuzer.com",
+        "createdAt": null
     }
 ]
