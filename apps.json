@@ -543,7 +543,7 @@
         "name": "Ghost Social Web Reader",
         "description": "An integrated web reader in Ghost(Pro) that lets you follow, read, and interact with Mastodon and other federated content from within the Ghost admin interface, featuring dedicated feed and inbox views.",
         "compatibility": ["Ghost", "Mastodon"],
-        "categories": ["client"],
+        "categories": ["official", "client"],
         "os": ["web"],
         "url": "https://activitypub.ghost.org/social-web-beta/",
         "createdAt": "March 2025"
@@ -552,7 +552,7 @@
         "name": "Flipboard",
         "description": "The official Flipboard app supports ActivityPub federation, allowing users to follow and interact with Mastodon and Pixelfed accounts alongside curated news feeds.",
         "compatibility": ["Flipboard", "Mastodon", "Pixelfed"],
-        "categories": ["client"],
+        "categories": ["official", "client"],
         "os": ["android", "ios", "web"],
         "url": "https://about.flipboard.com/inside-flipboard/you-can-now-connect-your-pixelfed-account-to-flipboard/",
         "createdAt": "May 2023"
