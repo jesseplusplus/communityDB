@@ -190,11 +190,11 @@
     },
     {
         "name": "Pixelix",
-        "description": "A user-friendly Pixelfed client for Android focused on easy photo uploads, browsing, and sharing, available on F-Droid.",
+        "description": "A user-friendly Pixelfed client for Android and iOS focused on easy photo uploads, browsing, and sharing.",
         "compatibility": ["Pixelfed"],
         "categories": ["client"],
-        "os": ["android"],
-        "url": "https://f-droid.org/packages/org.pixelfed.pixelix",
+        "os": ["android", "ios"],
+        "url": "https://app.pixelix.social",
         "createdAt": null
     },
     {
