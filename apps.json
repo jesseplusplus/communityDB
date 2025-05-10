@@ -558,24 +558,6 @@
         "createdAt": "May 2023"
     },
     {
-        "name": "Fires",
-        "description": "FediMod FIRES is a protocol and reference server implementation for storing and distributing moderation data over time for the Fediverse. It is intended to be used by teams to provide moderation recommendations and advisories, based on their research, to moderators and administrators of Fediverse servers.",
-        "compatibility": ["Mastodon", "Pixelfed"],
-        "categories": ["moderation", "tools"],
-        "os": ["web"],
-        "url": "https://github.com/fedimod/fires",
-        "createdAt": "July 2024"
-    },
-    {
-        "name": "The Bad Space",
-        "description": "The Bad Space arose from a need to identify instances that house bad actors, are poorly moderated, and/or contain inappropriate/offensive content (CSAM, hate speech, fascist ideology, etc.) that puts marginalized communities at risk.",
-        "compatibility": ["Mastodon"],
-        "categories": ["moderation", "tools"],
-        "os": ["web"],
-        "url": "https://tweaking.thebad.space/about",
-        "createdAt": "April 2025"
-    },
-    {
         "name": "Statuzer",
         "description": "Multi-accounts, multi-columns Mastodon client.",
         "compatibility": ["Mastodon"],
