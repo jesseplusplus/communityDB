@@ -2,6 +2,18 @@
     {
         "name": "Pixelfed",
         "slug": "pixelfed",
+        "categories": [
+            "image-sharing"
+        ],
+        "key_features": [
+            "Photo and video sharing",
+            "Discover feed",
+            "Instagram-like UI",
+            "Photo filters",
+            "Stories feature",
+            "Alt text support",
+            "Accessibility features"
+        ],
         "description": "Photo Sharing. For Everyone.",
         "license": "AGPL",
         "source_code": "https://github.com/pixelfed/pixelfed",
@@ -19,6 +31,18 @@
     {
         "name": "Mastodon",
         "slug": "mastodon",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Local and federated timelines",
+            "Media attachments",
+            "Rich text formatting",
+            "Content warnings",
+            "Custom filtering",
+            "Advanced privacy settings",
+            "Anti-abuse tools"
+        ],
         "description": "Mastodon is an open source decentralized social network - by the people for the people",
         "license": "AGPL",
         "source_code": "https://github.com/mastodon/mastodon",
@@ -36,6 +60,18 @@
     {
         "name": "PeerTube",
         "slug": "peertube",
+        "categories": [
+            "video"
+        ],
+        "key_features": [
+            "P2P video streaming",
+            "Live streaming",
+            "Video playlists",
+            "Federation with ActivityPub",
+            "Custom transcoding",
+            "Channel subscriptions",
+            "Advanced privacy controls"
+        ],
         "description": "Free software to take back control of your videos",
         "license": "AGPL",
         "source_code": "https://github.com/Chocobozzz/PeerTube",
@@ -53,6 +89,18 @@
     {
         "name": "Pleroma",
         "slug": "pleroma",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Low resource requirements",
+            "MastoAPI support",
+            "Real-time chat",
+            "Emoji reactions",
+            "Custom frontend support",
+            "Advanced MFA options",
+            "Custom emoji support"
+        ],
         "description": "Free and Open Federated Microblogging server.",
         "license": "AGPL",
         "source_code": "https://git.pleroma.social/pleroma/pleroma/",
@@ -70,6 +118,19 @@
     {
         "name": "Hubzilla",
         "slug": "hubzilla",
+        "categories": [
+            "blogging",
+            "microblogging"
+        ],
+        "key_features": [
+            "Nomadic identity",
+            "Decentralized file storage",
+            "Customizable channels",
+            "Federated content",
+            "Social networking features",
+            "Extensible via addons",
+            "Advanced access control"
+        ],
         "description": "Hubzilla is a powerful platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.",
         "license": "MIT",
         "source_code": "https://framagit.org/hubzilla/core",
@@ -87,6 +148,10 @@
     {
         "name": "GNU social",
         "slug": "gnusocial",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "The free/libre software social networking platform.",
         "license": "AGPL",
         "source_code": "https://notabug.org/diogo/gnu-social",
@@ -104,6 +169,10 @@
     {
         "name": "Plume",
         "slug": "plume",
+        "categories": [
+            "blogging"
+        ],
+        "key_features": [],
         "description": "A federated blogging application",
         "license": "AGPL",
         "source_code": "https://github.com/Plume-org/Plume",
@@ -121,6 +190,11 @@
     {
         "name": "Socialhome",
         "slug": "socialhome",
+        "categories": [
+            "blogging",
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "A federated social home",
         "license": "AGPL",
         "source_code": "https://github.com/jaywink/socialhome",
@@ -138,6 +212,18 @@
     {
         "name": "Writefreely",
         "slug": "writefreely",
+        "categories": [
+            "blogging"
+        ],
+        "key_features": [
+            "Minimalist blogging",
+            "Markdown editor",
+            "Federated via ActivityPub",
+            "Privacy-first publishing",
+            "Custom domains",
+            "Multiple blogs per account",
+            "Customizable themes"
+        ],
         "description": "Minimalist, federated, self-hosted blogging platform.",
         "license": "AGPL",
         "source_code": "https://github.com/writeas/writefreely",
@@ -155,6 +241,18 @@
     {
         "name": "Bookwyrm",
         "slug": "bookwyrm",
+        "categories": [
+            "other"
+        ],
+        "key_features": [
+            "Social reading and reviews",
+            "Book tracking",
+            "Federation with other book networks",
+            "Recommendation engine",
+            "Group discussions",
+            "Import/export book lists",
+            "Custom shelves"
+        ],
         "description": "BookWyrm is a social network for tracking your reading, talking about books, writing reviews, and discovering what to read next.",
         "license": "Anti-Capitalist Software License",
         "source_code": "https://github.com/bookwyrm-social/bookwyrm",
@@ -172,6 +270,18 @@
     {
         "name": "WordPress",
         "slug": "wordpress",
+        "categories": [
+            "blogging"
+        ],
+        "key_features": [
+            "Open-source blogging platform",
+            "Custom themes and plugins",
+            "Full CMS functionality",
+            "ActivityPub integration via plugins",
+            "SEO-friendly URLs",
+            "E-commerce capabilities",
+            "Media management tools"
+        ],
         "description": "Open source software which you can use to easily create a beautiful website, blog, or app.",
         "license": "GPLv2",
         "source_code": "https://github.com/Automattic/wordpress-activitypub",
@@ -183,12 +293,24 @@
         "forum_url": "https://wordpress.org/support/plugin/activitypub/",
         "donate_url": "https://wordpressfoundation.org/",
         "matrix_url": "https://matrix.to/#/#wordpress-fediverse:matrix.org",
-        "logo_source_url": "https://s.w.org/style/images/about/WordPress-logotype-simplified.png",
-        "logo_source_version": 1
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Misskey",
         "slug": "misskey",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Highly customizable UI",
+            "Reactions with custom emoji",
+            "MFM (Misskey Flavored Markdown)",
+            "Pages feature for websites",
+            "Widgets and apps",
+            "Advanced drive storage",
+            "Interactive games and features"
+        ],
         "description": "An interplanetary microblogging platform.",
         "license": "AGPL",
         "source_code": "https://github.com/misskey-dev/misskey",
@@ -206,6 +328,19 @@
     {
         "name": "Friendica",
         "slug": "friendica",
+        "categories": [
+            "microblogging",
+            "blogging"
+        ],
+        "key_features": [
+            "Social network interoperability",
+            "Groups and forums",
+            "Advanced privacy controls",
+            "Calendar and event management",
+            "Extensive plugins",
+            "RSS integration",
+            "Federation with various protocols"
+        ],
         "description": "Friendica is a free and open-source software distributed social network.",
         "license": "AGPL",
         "source_code": "https://github.com/friendica/friendica",
@@ -217,12 +352,16 @@
         "forum_url": "https://forum.friendi.ca/directory",
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": "https://raw.githubusercontent.com/friendica/friendica/refs/heads/2024.09-rc/images/friendica-1600.png",
-        "logo_source_version": 2
+        "logo_source_url": "https://fedidb.org/storage/software-logos/friendica.png",
+        "logo_source_version": 1
     },
     {
         "name": "Activityrelay",
         "slug": "activityrelay",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "Generic LitePub relay.",
         "license": "AGPL",
         "source_code": "https://git.pleroma.social/pleroma/relay",
@@ -240,6 +379,18 @@
     {
         "name": "Lotide",
         "slug": "lotide",
+        "categories": [
+            "forum"
+        ],
+        "key_features": [
+            "Decentralized link aggregator",
+            "Federated communities",
+            "Threaded discussions",
+            "Minimalist design",
+            "Voting and moderation tools",
+            "Customizable feeds",
+            "ActivityPub federation"
+        ],
         "description": "A federated forum / link aggregator using ActivityPub.",
         "license": "AGPL",
         "source_code": "https://git.sr.ht/~vpzom/lotide",
@@ -257,6 +408,10 @@
     {
         "name": "Microblogpub",
         "slug": "microblogpub",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "A self-hosted, single-user, ActivityPub powered microblog.",
         "license": "AGPL",
         "source_code": "https://git.sr.ht/~tsileo/microblog.pub",
@@ -274,6 +429,10 @@
     {
         "name": "Ktistec",
         "slug": "ktistec",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "Single user ActivityPub server.",
         "license": "AGPL",
         "source_code": "https://github.com/toddsundsted/ktistec",
@@ -289,8 +448,41 @@
         "logo_source_version": null
     },
     {
+        "name": "Drupal",
+        "slug": "drupal",
+        "categories": [
+            "blogging"
+        ],
+        "key_features": [],
+        "description": "Drupal is an open source content management platform powering millions of websites and applications",
+        "license": "GPL-2.0-or-later",
+        "source_code": "https://git.drupalcode.org/project/activitypub",
+        "website": "https://www.drupal.org/project/activitypub",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": "https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/activitypub",
+        "support_url": "https://www.drupal.org/project/activitypub",
+        "forum_url": "https://www.drupal.org/project/issues/activitypub?categories=All",
+        "donate_url": null,
+        "matrix_url": "https://matrix.to/#/#drupalactivitypub:matrix.org",
+        "logo_source_url": null,
+        "logo_source_version": null
+    },
+    {
         "name": "Funkwhale",
         "slug": "funkwhale",
+        "categories": [
+            "audio"
+        ],
+        "key_features": [
+            "Music streaming",
+            "Federation via ActivityPub",
+            "Playlist sharing",
+            "Podcast hosting",
+            "User library management",
+            "Artist management",
+            "Customizable UI"
+        ],
         "description": "A social platform to enjoy and share music.",
         "license": "AGPL",
         "source_code": "https://dev.funkwhale.audio/funkwhale/funkwhale",
@@ -308,6 +500,18 @@
     {
         "name": "Mobilizon",
         "slug": "mobilizon",
+        "categories": [
+            "events"
+        ],
+        "key_features": [
+            "Event creation and management",
+            "RSVP tracking",
+            "Group management",
+            "Privacy-oriented design",
+            "Federation via ActivityPub",
+            "Localization support",
+            "Calendar integration"
+        ],
         "description": "Mobilizon is an open source software for event planning and group management.",
         "license": "AGPL",
         "source_code": "https://framagit.org/framasoft/mobilizon",
@@ -325,6 +529,18 @@
     {
         "name": "Gancio",
         "slug": "gancio",
+        "categories": [
+            "events"
+        ],
+        "key_features": [
+            "Federated event management",
+            "Localized and multilingual",
+            "RSVP tracking",
+            "Community-managed events",
+            "Calendar integration",
+            "ActivityPub federation",
+            "Privacy-oriented design"
+        ],
         "description": "A shared agenda for local communities.",
         "license": "AGPL",
         "source_code": "https://framagit.org/les/gancio",
@@ -342,6 +558,10 @@
     {
         "name": "Zap",
         "slug": "zap",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "A fediverse server.",
         "license": "Public Domain",
         "source_code": "https://codeberg.org/zot-archive/zap",
@@ -359,6 +579,18 @@
     {
         "name": "Smithereen",
         "slug": "smithereen",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Social groups and events",
+            "Photo albums",
+            "Federated timelines",
+            "Advanced privacy settings",
+            "Discussion forums",
+            "Friend lists",
+            "User-friendly interface"
+        ],
         "description": "Federated, ActivityPub-compatible social network server with friends, walls, and groups.",
         "license": "Unlicense",
         "source_code": "https://github.com/grishka/Smithereen",
@@ -370,12 +602,24 @@
         "forum_url": "https://t.me/SmithereenProject",
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": "https://raw.githubusercontent.com/grishka/Smithereen/refs/heads/master/img/logo512.png",
-        "logo_source_version": 1
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Lemmy",
         "slug": "lemmy",
+        "categories": [
+            "forum"
+        ],
+        "key_features": [
+            "Reddit-like community structure",
+            "Federated discussions",
+            "Voting and sorting options",
+            "Threaded conversations",
+            "Moderator tools",
+            "Customizable themes",
+            "Real-time updates"
+        ],
         "description": "A link aggregator and forum for the fediverse.",
         "license": "AGPL",
         "source_code": "https://github.com/LemmyNet/lemmy",
@@ -393,6 +637,10 @@
     {
         "name": "Activity-Relay",
         "slug": "activity-relay",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "Yet another powerful customizable ActivityPub relay server written in Go.",
         "license": "AGPL",
         "source_code": "https://github.com/yukimochi/Activity-Relay",
@@ -410,6 +658,18 @@
     {
         "name": "Bonfire",
         "slug": "bonfire",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Modular federation framework",
+            "Community governance tools",
+            "Privacy-first design",
+            "Customizable extensions",
+            "Supports diverse content types",
+            "Federated groups",
+            "Robust moderation system"
+        ],
         "description": "A federated social network for individuals and communities to design, operate and control their own digital lives.",
         "license": "AGPL",
         "source_code": "https://github.com/bonfire-networks/bonfire-app",
@@ -427,6 +687,10 @@
     {
         "name": "Brutalinks",
         "slug": "brutalinks",
+        "categories": [
+            "forum"
+        ],
+        "key_features": [],
         "description": "Link aggregator inspired by reddit using ActivityPub federation.",
         "license": "MIT",
         "source_code": "https://git.sr.ht/~mariusor/brutalinks",
@@ -444,6 +708,10 @@
     {
         "name": "Ecko",
         "slug": "ecko",
+        "categories": [
+            "blogging"
+        ],
+        "key_features": [],
         "description": "Ecko is a fork of Mastodon with extra features requested by the community.",
         "license": "AGPL",
         "source_code": "https://github.com/magicstone-dev/ecko",
@@ -461,6 +729,18 @@
     {
         "name": "Gotosocial",
         "slug": "gotosocial",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Lightweight ActivityPub server",
+            "Highly privacy-oriented",
+            "Minimalist design",
+            "Moderation tools",
+            "Efficient resource use",
+            "Supports Mastodon API",
+            "Custom emoji support"
+        ],
         "description": "GoToSocial is an ActivityPub social network server, written in Golang.",
         "license": "AGPL",
         "source_code": "https://github.com/superseriousbusiness/gotosocial",
@@ -478,6 +758,10 @@
     {
         "name": "Hometown",
         "slug": "hometown",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "A supported fork of Mastodon that provides local posting and a wider range of content types.",
         "license": "AGPL",
         "source_code": "https://github.com/hometown-fork/hometown",
@@ -495,6 +779,18 @@
     {
         "name": "Mitra",
         "slug": "mitra",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Social collaboration tools",
+            "Federation via ActivityPub",
+            "Task management",
+            "Group discussions",
+            "File sharing",
+            "Project timelines",
+            "Real-time notifications"
+        ],
         "description": "Federated micro-blogging platform.",
         "license": "AGPL",
         "source_code": "https://codeberg.org/silverpill/mitra",
@@ -512,6 +808,19 @@
     {
         "name": "Owncast",
         "slug": "owncast",
+        "categories": [
+            "video",
+            "audio"
+        ],
+        "key_features": [
+            "Self-hosted live streaming",
+            "Chat integration",
+            "Customizable interface",
+            "Federation with ActivityPub",
+            "Stream analytics",
+            "Privacy controls",
+            "Scheduled streaming"
+        ],
         "description": "Owncast is a free and open source live video and web chat server for use with existing popular broadcasting software.",
         "license": "MIT",
         "source_code": "https://github.com/owncast/owncast",
@@ -529,6 +838,18 @@
     {
         "name": "Akkoma",
         "slug": "akkoma",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Lightweight microblogging",
+            "ActivityPub federation",
+            "Real-time updates",
+            "Rich text support",
+            "Minimal resource usage",
+            "Emoji reactions",
+            "Plugin support"
+        ],
         "description": "Akkoma is a faster-paced fork, it has a varied and potentially experimental feature set tailored specifically to the corner of the fediverse inhabited by the project creator and contributors.",
         "license": "AGPL",
         "source_code": "https://akkoma.dev/AkkomaGang/akkoma",
@@ -546,6 +867,18 @@
     {
         "name": "Bridgy-fed",
         "slug": "bridgy-fed",
+        "categories": [
+            "other"
+        ],
+        "key_features": [
+            "Federates existing websites",
+            "Automatic syndication",
+            "Webmention integration",
+            "Supports multiple CMSs",
+            "Microformats support",
+            "Seamless federation",
+            "Minimal setup required"
+        ],
         "description": "Bridgy Fed connects your web site to Mastodon and the fediverse.",
         "license": "Public domain",
         "source_code": "https://github.com/snarfed/bridgy-fed",
@@ -563,6 +896,10 @@
     {
         "name": "Cherrypick",
         "slug": "cherrypick",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "Fork of Misskey.",
         "license": "AGPL",
         "source_code": "https://github.com/kokonect-link/cherrypick",
@@ -580,6 +917,10 @@
     {
         "name": "Fedibird",
         "slug": "fedibird",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "Fedibird is a fork of Mastodon arranged with features maintained by Takeshi Umeda (noellabo).",
         "license": "AGPL",
         "source_code": "https://github.com/fedibird/mastodon",
@@ -597,6 +938,10 @@
     {
         "name": "Foundkey",
         "slug": "foundkey",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "Forked from Misskey, FoundKey improves on maintainability and behaviour, while also bringing in useful features.",
         "license": "AGPL",
         "source_code": "https://akkoma.dev/FoundKeyGang/FoundKey",
@@ -614,6 +959,10 @@
     {
         "name": "Glitchcafe",
         "slug": "glitchcafe",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "Mastodon fork for Plural Caf\u00e9.",
         "license": "AGPL",
         "source_code": "https://github.com/pluralcafe/glitchcafe",
@@ -631,6 +980,10 @@
     {
         "name": "Kbin",
         "slug": "kbin",
+        "categories": [
+            "forum"
+        ],
+        "key_features": [],
         "description": "Kbin is an open source reddit-like content aggregator and microblogging platform for the fediverse.",
         "license": "AGPL",
         "source_code": "https://codeberg.org/Kbin/kbin-core",
@@ -648,6 +1001,10 @@
     {
         "name": "Meisskey",
         "slug": "meisskey",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "Meisskey is a decentralized microblogging platform, a fork of Misskey.",
         "license": "AGPL",
         "source_code": "https://github.com/mei23/misskey",
@@ -665,6 +1022,18 @@
     {
         "name": "Microdotblog",
         "slug": "microdotblog",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Personal blogging",
+            "Podcast hosting",
+            "Cross-posting features",
+            "Photo galleries",
+            "Markdown support",
+            "Easy ActivityPub federation",
+            "IndieWeb compatibility"
+        ],
         "description": "Personal blogging that makes it easy to be social.",
         "license": null,
         "source_code": null,
@@ -682,6 +1051,10 @@
     {
         "name": "Snac",
         "slug": "snac",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "A simple, minimalistic ActivityPub instance written in portable C.",
         "license": "MIT",
         "source_code": "https://codeberg.org/grunfink/snac2",
@@ -699,6 +1072,18 @@
     {
         "name": "Takahe",
         "slug": "takahe",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Microblogging platform",
+            "Federation via ActivityPub",
+            "Fast timeline loading",
+            "Moderation toolkit",
+            "Multi-account support",
+            "Markdown posts",
+            "Minimalist UI"
+        ],
         "description": "An efficient ActivityPub Server, for small installs with multiple domains.",
         "license": "BSD-3",
         "source_code": "https://github.com/jointakahe/takahe",
@@ -716,15 +1101,19 @@
     {
         "name": "Firefish",
         "slug": "firefish",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "A fun, new, open way to experience social media.",
         "license": "AGPL",
-        "source_code": "https://git.joinfirefish.org/firefish/firefish",
-        "website": "https://joinfirefish.org/",
-        "apps_url": "https://joinfirefish.org/apps",
-        "join_url": "https://joinfirefish.org/join",
-        "api_docs_url": "https://firefish.social/api-doc",
-        "support_url": "https://joinfirefish.org/contact",
-        "forum_url": "https://git.joinfirefish.org/firefish/firefish/-/issues",
+        "source_code": null,
+        "website": null,
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": null,
+        "forum_url": null,
         "donate_url": "https://opencollective.com/firefish",
         "matrix_url": null,
         "logo_source_url": "https://fedidb.org/storage/software-logos/firefish.png",
@@ -733,6 +1122,18 @@
     {
         "name": "Mbin",
         "slug": "mbin",
+        "categories": [
+            "forum"
+        ],
+        "key_features": [
+            "Reddit-compatible API",
+            "Decentralized community management",
+            "Threaded discussions",
+            "Federation support",
+            "Moderation tools",
+            "Real-time notifications",
+            "Content voting"
+        ],
         "description": "Mbin a fork of kbin, community-focused.",
         "license": "AGPL",
         "source_code": "https://github.com/MbinOrg/mbin",
@@ -744,12 +1145,16 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": "https://matrix.to/#/#mbin:melroy.org",
-        "logo_source_url": "https://raw.githubusercontent.com/MbinOrg/mbin/refs/heads/main/public/logo.png",
-        "logo_source_version": 3
+        "logo_source_url": "https://fedidb.org/storage/software-logos/mbin.png",
+        "logo_source_version": 2
     },
     {
         "name": "Iceshrimp",
         "slug": "iceshrimp",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "YAMF (Yet another Misskey fork) bringing you no-nonsense fixes, features & improvements you actually want since 2023",
         "license": "AGPL",
         "source_code": "https://iceshrimp.dev/iceshrimp/iceshrimp",
@@ -767,6 +1172,18 @@
     {
         "name": "Sharkey",
         "slug": "sharkey",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Threaded microblogging",
+            "Lightweight performance",
+            "Markdown support",
+            "Minimalist interface",
+            "Federation support",
+            "Easy deployment",
+            "Responsive design"
+        ],
         "description": "Sharkey is an Misskey fork following upstream changes when possible, with added features.",
         "license": "AGPL",
         "source_code": "https://github.com/transfem-org/Sharkey",
@@ -784,6 +1201,18 @@
     {
         "name": "Postmarks",
         "slug": "postmarks",
+        "categories": [
+            "other"
+        ],
+        "key_features": [
+            "Federated bookmarking",
+            "Rich metadata extraction",
+            "Tags and categories",
+            "Private bookmarks",
+            "RSS integration",
+            "Browser extensions support",
+            "Import/export bookmarks"
+        ],
         "description": "Single-user bookmarking website designed to live on the Fediverse.",
         "license": "MIT",
         "source_code": "https://github.com/ckolderup/postmarks",
@@ -801,6 +1230,18 @@
     {
         "name": "Piefed",
         "slug": "piefed",
+        "categories": [
+            "forum"
+        ],
+        "key_features": [
+            "Minimalist microblogging",
+            "Federation via ActivityPub",
+            "Markdown support",
+            "Privacy-focused",
+            "Real-time timeline updates",
+            "Custom domains",
+            "Easy deployment"
+        ],
         "description": "An open source reddit-like federated forum that works well with Lemmy and others.",
         "license": "AGPL",
         "source_code": "https://codeberg.org/rimu/pyfedi",
@@ -812,12 +1253,24 @@
         "forum_url": "https://piefed.social/c/piefed_meta",
         "donate_url": "https://piefed.social/donate",
         "matrix_url": "https://matrix.to/#/#piefed-community:matrix.org",
-        "logo_source_url": "https://piefed.social/static/images/logo.svg",
-        "logo_source_version": 2
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Ghost",
         "slug": "ghost",
+        "categories": [
+            "blogging"
+        ],
+        "key_features": [
+            "Professional publishing platform",
+            "Membership and subscriptions",
+            "Rich editor",
+            "SEO optimization",
+            "ActivityPub integration (via plugins)",
+            "Customizable themes",
+            "Newsletter support"
+        ],
         "description": "Ghost is a powerful app for professional publishers to create, share, and grow a business around their content.",
         "license": "MIT",
         "source_code": "https://github.com/TryGhost/Ghost",
@@ -829,12 +1282,24 @@
         "forum_url": "https://forum.ghost.org",
         "donate_url": "https://github.com/sponsors/TryGhost",
         "matrix_url": null,
-        "logo_source_url": "https://ghost.org/images/logos/ghost.png",
-        "logo_source_version": null
+        "logo_source_url": "https://fedidb.org/storage/software-logos/ghost.png",
+        "logo_source_version": 1
     },
     {
         "name": "Hollo",
         "slug": "hollo",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Federated voice messaging",
+            "Real-time audio interactions",
+            "Privacy-focused conversations",
+            "Short-form audio sharing",
+            "Audio discovery feed",
+            "Minimalist UI",
+            "ActivityPub integration"
+        ],
         "description": "Hollo is a federated single-user microblogging software powered by Fedify.",
         "license": "AGPL",
         "source_code": "https://github.com/fedify-dev/hollo",
@@ -846,12 +1311,16 @@
         "forum_url": "https://github.com/fedify-dev/hollo/discussions",
         "donate_url": "https://github.com/sponsors/dahlia",
         "matrix_url": "https://matrix.to/#/%23hollo-users:matrix.org",
-        "logo_source_url": "https://raw.githubusercontent.com/fedify-dev/hollo/main/logo-black.svg",
+        "logo_source_url": null,
         "logo_source_version": null
     },
     {
         "name": "Kmyblue",
         "slug": "kmyblue",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "Mastodon, which specializes in small communities for the inner circle.",
         "license": "AGPL",
         "source_code": "https://github.com/kmycode/mastodon",
@@ -869,6 +1338,18 @@
     {
         "name": "Loops",
         "slug": "loops",
+        "categories": [
+            "video"
+        ],
+        "key_features": [
+            "Short-form video sharing",
+            "Federated via ActivityPub",
+            "Vertical video format",
+            "Real-time interactions",
+            "Android + iOS app",
+            "Privacy controls",
+            "Explore and discovery feed"
+        ],
         "description": "Loops is a short video sharing platform.",
         "license": "AGPL",
         "source_code": "https://github.com/px-loops/loopd",
@@ -886,6 +1367,19 @@
     {
         "name": "wafrn",
         "slug": "wafrn",
+        "categories": [
+            "microblogging",
+            "blogging"
+        ],
+        "key_features": [
+            "Microblogging platform",
+            "Federation via ActivityPub",
+            "Markdown support",
+            "Minimal resource requirements",
+            "Customizable themes",
+            "Real-time feeds",
+            "Privacy controls"
+        ],
         "description": "Wafrn is a federated social media inspired by tumblr.",
         "license": "AGPL",
         "source_code": "https://github.com/gabboman/wafrn",
@@ -903,6 +1397,18 @@
     {
         "name": "Castopod",
         "slug": "castopod",
+        "categories": [
+            "audio"
+        ],
+        "key_features": [
+            "Podcast hosting platform",
+            "ActivityPub federation",
+            "Detailed analytics",
+            "Podcast monetization tools",
+            "Customizable podcast pages",
+            "Automated RSS feeds",
+            "Social interactions (comments/replies)"
+        ],
         "description": "Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience.",
         "license": "AGPL",
         "source_code": "https://code.castopod.org/adaures/castopod",
@@ -920,6 +1426,18 @@
     {
         "name": "Manyfold",
         "slug": "manyfold",
+        "categories": [
+            "other"
+        ],
+        "key_features": [
+            "Federated writing platform",
+            "Collaborative editing",
+            "ActivityPub federation",
+            "Rich text editor",
+            "Publication scheduling",
+            "Privacy settings",
+            "Group publishing"
+        ],
         "description": "Organise and share your 3d print files.",
         "license": "MIT",
         "source_code": "https://github.com/manyfold3d/manyfold",
@@ -937,6 +1455,10 @@
     {
         "name": "flohmarkt",
         "slug": "flohmarkt",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "Sell and buy 2nd hand items from other users.",
         "license": "AGPL",
         "source_code": "https://codeberg.org/flohmarkt/flohmarkt",
@@ -948,12 +1470,16 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": "https://codeberg.org/repo-avatars/576d79b207b4d46349e252a8e2abf6d1a7078ba5999726e7d4e7e0b483c5068e",
+        "logo_source_url": null,
         "logo_source_version": null
     },
     {
         "name": "FediAlgo",
         "slug": "fedialgo",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "A user customizable algorithm for your Mastodon timeline.",
         "license": "ISC",
         "source_code": "https://github.com/michelcrypt4d4mus/fedialgo",
@@ -971,6 +1497,10 @@
     {
         "name": "tootik",
         "slug": "tootik",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "A federated nanoblogging service with a Gemini frontend.",
         "license": "Apache-2.0",
         "source_code": "https://github.com/dimkr/tootik",
@@ -988,6 +1518,18 @@
     {
         "name": "Vidzy",
         "slug": "vidzy",
+        "categories": [
+            "video"
+        ],
+        "key_features": [
+            "Short-form video sharing",
+            "Federated via ActivityPub",
+            "Vertical video format",
+            "User-generated video filters",
+            "Real-time interactions",
+            "Privacy controls",
+            "Explore and discovery feed"
+        ],
         "description": "A free, open source, federated alternative to TikTok",
         "license": "AGPL",
         "source_code": "https://github.com/vidzy-social/vidzy",
@@ -999,12 +1541,24 @@
         "forum_url": "https://github.com/vidzy-social/vidzy/discussions",
         "donate_url": null,
         "matrix_url": "https://matrix.to/#/#vidzysocial:fedora.im",
-        "logo_source_url": "https://raw.githubusercontent.com/vidzy-social/vidzy/main/static/logo.svg",
+        "logo_source_url": null,
         "logo_source_version": null
     },
     {
         "name": "Emissary",
         "slug": "emissary",
+        "categories": [
+            "other"
+        ],
+        "key_features": [
+            "Federated event hosting",
+            "RSVP management",
+            "Privacy-first approach",
+            "Real-time updates",
+            "Custom event pages",
+            "ActivityPub integration",
+            "Calendar synchronization"
+        ],
         "description": "The Social Web Toolkit: AProgrammable server for custom Fediverse apps.",
         "license": "AGPL",
         "source_code": "https://github.com/EmissarySocial/emissary",
@@ -1016,12 +1570,16 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": "https://matrix.to/#/#emissary.matrix.org:matrix.org",
-        "logo_source_url": "https://emissary.dev/.templates/emissary_dev_homepage/resources/Emissary-Logo-Black.png",
-        "logo_source_version": 1
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "NeoDB",
         "slug": "neodb",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "Review and share books, movies, music, games, and more",
         "license": "AGPL",
         "source_code": "https://github.com/neodb-social/neodb",
@@ -1033,12 +1591,16 @@
         "forum_url": "https://discord.gg/uprvcH8gqD",
         "donate_url": "https://ko-fi.com/neodb",
         "matrix_url": "https://matrix.to/#/#neodb:matrix.org",
-        "logo_source_url": "https://neodb.net/assets/logo.svg",
-        "logo_source_version": 1
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "appy",
         "slug": "appy",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "a headless ActivityPub server written in Python over fastAPI",
         "license": "GPL",
         "source_code": "https://codeberg.org/spla/appy",
@@ -1050,12 +1612,17 @@
         "forum_url": "",
         "donate_url": "https://appy.cat/donate",
         "matrix_url": "",
-        "logo_source_url": "https://codeberg.org/spla/appy/logo/appy.png",
-        "logo_source_version": 1
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Elgg",
         "slug": "elgg",
+        "categories": [
+            "blogging",
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "Powerful open source social networking engine",
         "license": "GPLv2",
         "source_code": "http://github.com/elgg/elgg",
@@ -1067,12 +1634,24 @@
         "forum_url": "https://elgg.org/activity",
         "donate_url": "https://elgg.org/about/supporters",
         "matrix_url": "",
-        "logo_source_url": "https://avatars.githubusercontent.com/u/79167",
-        "logo_source_version": 4
+        "logo_source_url": null,
+        "logo_source_version": null
     },
-    {   
+    {
         "name": "NodeBB",
         "slug": "nodebb",
+        "categories": [
+            "forum"
+        ],
+        "key_features": [
+            "Real-time notifications",
+            "Responsive design",
+            "Advanced moderation tools",
+            "Extensible via plugins",
+            "Social media integration",
+            "Markdown support",
+            "Gamification features"
+        ],
         "description": "A better community platform for the modern web",
         "license": "GPL-3.0",
         "source_code": "https://github.com/NodeBB/NodeBB",
@@ -1084,12 +1663,16 @@
         "forum_url": "https://community.nodebb.org",
         "donate_url": "https://nodebb.org",
         "matrix_url": "",
-        "logo_source_url": "https://community.nodebb.org/assets/uploads/system/touchicon-orig.png",
-        "logo_source_version": 1
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "irwin",
         "slug": "irwin",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "an activitypub and indieauth server",
         "license": "MIT",
         "source_code": "https://github.com/herestomwiththeweather/irwin",
@@ -1105,25 +1688,12 @@
         "logo_source_version": null
     },
     {
-        "name": "Drupal",
-        "slug": "drupal",
-        "description": "Drupal is an open source content management platform powering millions of websites and applications",
-        "license": "GPL-2.0-or-later",
-        "source_code": "https://git.drupalcode.org/project/activitypub",
-        "website": "https://www.drupal.org/project/activitypub",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": "https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/activitypub",
-        "support_url": "https://www.drupal.org/project/activitypub",
-        "forum_url": "https://www.drupal.org/project/issues/activitypub?categories=All",
-        "donate_url": null,
-        "matrix_url": "https://matrix.to/#/#drupalactivitypub:matrix.org",
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
         "name": "Vernissage",
         "slug": "vernissage",
+        "categories": [
+            "image-sharing"
+        ],
+        "key_features": [],
         "description": "Vernissage is a free platform designed for photographers. It's ad-free and focused on community and creativity, not algorithms.",
         "license": "Apache 2.0",
         "source_code": "https://github.com/VernissageApp/VernissageServer",
@@ -1135,12 +1705,16 @@
         "forum_url": null,
         "donate_url": "https://www.patreon.com/Vernissage",
         "matrix_url": null,
-        "logo_source_url": "https://avatars.githubusercontent.com/u/124820233?s=200&v=4",
+        "logo_source_url": null,
         "logo_source_version": null
     },
     {
         "name": "Betula",
         "slug": "betula",
+        "categories": [
+            "other"
+        ],
+        "key_features": [],
         "description": "Single-user federated bookmark manager with hypertext descriptions, tagging, local and federated search, archival and whatnot.",
         "license": "AGPL",
         "source_code": "https://codeberg.org/bouncepaw/betula",
@@ -1152,12 +1726,16 @@
         "forum_url": "https://fosstodon.org/@betula",
         "donate_url": "https://boosty.to/bouncepaw",
         "matrix_url": null,
-        "logo_source_url": "https://links.bouncepaw.com/static/pix/favicon.png",
-        "logo_source_version": 1
+        "logo_source_url": null,
+        "logo_source_version": null
     },
     {
         "name": "Hackers' Pub",
         "slug": "hackerspub",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [],
         "description": "ActivityPub-enabled social network for hackers.",
         "license": "AGPL",
         "source_code": "https://github.com/hackers-pub/hackerspub",
@@ -1169,7 +1747,7 @@
         "forum_url": "https://github.com/hackers-pub/hackerspub/discussions",
         "donate_url": "https://github.com/sponsors/dahlia",
         "matrix_url": null,
-        "logo_source_url": "https://raw.githubusercontent.com/hackers-pub/hackerspub/main/web/static/favicon.svg",
+        "logo_source_url": null,
         "logo_source_version": null
     }
 ]

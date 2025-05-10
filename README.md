@@ -13,6 +13,18 @@ To add or update software in the communityDB repository, you will need to provid
 {
     "name": "Pixelfed",
     "slug": "pixelfed",
+    "categories": [
+        "image-sharing"
+    ],
+    "key_features": [
+        "Photo and video sharing",
+        "Discover feed",
+        "Instagram-like UI",
+        "Photo filters",
+        "Stories feature",
+        "Alt text support",
+        "Accessibility features"
+    ],
     "description": "Photo Sharing. For Everyone.",
     "license": "AGPL",
     "source_code": "https://github.com/pixelfed/pixelfed",
@@ -52,6 +64,8 @@ Locate the `software.json` file in the repository. Add your new software entry o
 #### **Field Descriptions**
 - **name**: The name of the software (e.g., "Pixelfed").
 - **slug**: A lowercase, URL-friendly identifier for the software (e.g., "pixelfed"). This should never change.
+- **categories**: An array of categories, one or more of the following ["microblogging", "blogging", "image-sharing", "audio", "video", "events", "forum", "git", "other"]
+- **key_features**: An array of key features (max 40 chars per feature, max 7 features)
 - **description**: A short description of the software.
 - **license**: The license of the software (e.g., "AGPL").
 - **source_code**: URL to the source code repository.
