@@ -583,5 +583,14 @@
         "os": ["ios"],
         "url": "https://fedicat.com",
         "createdAt": "March 2023"
-    }
+    },
+    {
+        "name": "Tuba",
+        "description": "Explore the federated social web with Tuba. Stay connected to your favorite communities, family and friends with support for popular Fediverse platforms.",
+        "compatibility": ["Mastodon", "GoToSocial", "Akkoma", "Pixelfed"],
+        "categories": ["client"],
+        "os": ["desktop"],
+        "url": "https://tuba.geopjr.dev/",
+        "createdAt": "April 2018"
+    },
 ]
