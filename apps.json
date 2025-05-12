@@ -590,7 +590,7 @@
         "compatibility": ["Mastodon", "GoToSocial", "Akkoma", "Pixelfed"],
         "categories": ["client"],
         "os": ["desktop"],
-        "url": "https://flathub.org/apps/dev.geopjr.Tuba",
+        "url": "https://tuba.geopjr.dev/",
         "createdAt": "April 2018"
     },
 ]
