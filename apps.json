@@ -586,7 +586,7 @@
     },
     {
         "name": "Tuba",
-        "description": "A fediverse client for Linux. Explore the federated social web with Tuba. Stay connected to your favorite communities, family and friends with support for popular Fediverse platforms.",
+        "description": "Explore the federated social web with Tuba. Stay connected to your favorite communities, family and friends with support for popular Fediverse platforms.",
         "compatibility": ["Mastodon", "GoToSocial", "Akkoma", "Pixelfed"],
         "categories": ["client"],
         "os": ["desktop"],
