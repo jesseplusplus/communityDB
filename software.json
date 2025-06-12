@@ -1430,27 +1430,25 @@
             "other"
         ],
         "key_features": [
-            "Federated writing platform",
-            "Collaborative editing",
-            "ActivityPub federation",
-            "Rich text editor",
-            "Publication scheduling",
-            "Privacy settings",
-            "Group publishing"
+            "3D model hosting platform",
+            "3D rendering",
+            "Granular permission controls",
+            "Public & private publishing",
+            "ActivityPub federation"
         ],
         "description": "Organise and share your 3d print files.",
         "license": "MIT",
         "source_code": "https://github.com/manyfold3d/manyfold",
         "website": "https://manyfold.app",
         "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
+        "join_url": "https://manyfold.app/instances.html",
+        "api_docs_url": "https://try.manyfold.app/api/index.html",
         "support_url": "https://github.com/manyfold3d/manyfold/issues/new",
         "forum_url": "https://github.com/manyfold3d/manyfold/discussions",
         "donate_url": "https://opencollective.com/manyfold",
-        "matrix_url": "https://matrix.to/#/#manyfold:one.ems.host",
-        "logo_source_url": null,
-        "logo_source_version": null
+        "matrix_url": "https://matrix.to/#/#manyfold:matrix.org",
+        "logo_source_url": "https://manyfold.app/images/roundel.svg",
+        "logo_source_version": 1
     },
     {
         "name": "flohmarkt",
